@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "IMWquXOaJtmt6cVcZEFEFj/SwJ9EEswwhByI7lrzSFF3a75iTOlaQoplZHwTvUK4ZzPSRYNPcfu/bVPC2NF8mQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\MovieShop\\MovieShop.Application\\MovieShop.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.5\\microsoft.aspnetcore.http.features.3.1.5.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.5\\microsoft.extensions.primitives.3.1.5.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.io.pipelines\\4.7.1\\system.io.pipelines.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

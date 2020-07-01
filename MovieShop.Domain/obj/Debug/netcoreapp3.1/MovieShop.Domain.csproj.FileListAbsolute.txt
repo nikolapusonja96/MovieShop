@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\MovieShop\MovieShop.Domain\bin\Debug\netcoreapp3.1\MovieShop.Domain.deps.json
+C:\Users\Lenovo\source\repos\MovieShop\MovieShop.Domain\bin\Debug\netcoreapp3.1\MovieShop.Domain.dll
+C:\Users\Lenovo\source\repos\MovieShop\MovieShop.Domain\bin\Debug\netcoreapp3.1\MovieShop.Domain.pdb
+C:\Users\Lenovo\source\repos\MovieShop\MovieShop.Domain\obj\Debug\netcoreapp3.1\MovieShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MovieShop\MovieShop.Domain\obj\Debug\netcoreapp3.1\MovieShop.Domain.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\MovieShop\MovieShop.Domain\obj\Debug\netcoreapp3.1\MovieShop.Domain.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\MovieShop\MovieShop.Domain\obj\Debug\netcoreapp3.1\MovieShop.Domain.dll
+C:\Users\Lenovo\source\repos\MovieShop\MovieShop.Domain\obj\Debug\netcoreapp3.1\MovieShop.Domain.pdb
+C:\Users\Lenovo\source\repos\MovieShop\MovieShop.Domain\obj\Debug\netcoreapp3.1\MovieShop.Domain.csprojAssemblyReference.cache

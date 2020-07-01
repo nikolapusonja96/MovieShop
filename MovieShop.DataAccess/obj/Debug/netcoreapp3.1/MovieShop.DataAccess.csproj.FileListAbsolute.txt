@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\MovieShop\MovieShop.DataAccess\bin\Debug\netcoreapp3.1\MovieShop.DataAccess.deps.json
+C:\Users\Lenovo\source\repos\MovieShop\MovieShop.DataAccess\bin\Debug\netcoreapp3.1\MovieShop.DataAccess.runtimeconfig.json
+C:\Users\Lenovo\source\repos\MovieShop\MovieShop.DataAccess\bin\Debug\netcoreapp3.1\MovieShop.DataAccess.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\MovieShop\MovieShop.DataAccess\bin\Debug\netcoreapp3.1\MovieShop.DataAccess.dll
+C:\Users\Lenovo\source\repos\MovieShop\MovieShop.DataAccess\bin\Debug\netcoreapp3.1\MovieShop.DataAccess.pdb
+C:\Users\Lenovo\source\repos\MovieShop\MovieShop.DataAccess\bin\Debug\netcoreapp3.1\MovieShop.Domain.dll
+C:\Users\Lenovo\source\repos\MovieShop\MovieShop.DataAccess\bin\Debug\netcoreapp3.1\MovieShop.Domain.pdb
+C:\Users\Lenovo\source\repos\MovieShop\MovieShop.DataAccess\obj\Debug\netcoreapp3.1\MovieShop.DataAccess.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\MovieShop\MovieShop.DataAccess\obj\Debug\netcoreapp3.1\MovieShop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MovieShop\MovieShop.DataAccess\obj\Debug\netcoreapp3.1\MovieShop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\MovieShop\MovieShop.DataAccess\obj\Debug\netcoreapp3.1\MovieShop.DataAccess.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\MovieShop\MovieShop.DataAccess\obj\Debug\netcoreapp3.1\MovieShop.DataAccess.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\MovieShop\MovieShop.DataAccess\obj\Debug\netcoreapp3.1\MovieShop.DataAccess.dll
+C:\Users\Lenovo\source\repos\MovieShop\MovieShop.DataAccess\obj\Debug\netcoreapp3.1\MovieShop.DataAccess.pdb
+C:\Users\Lenovo\source\repos\MovieShop\MovieShop.DataAccess\obj\Debug\netcoreapp3.1\MovieShop.DataAccess.genruntimeconfig.cache
